@@ -1,5 +1,7 @@
 # This is my React's first Project. Output of this Project in the images folder.
 
+There is one screenshot in images folder which is for knwoing the actual output of this project.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
